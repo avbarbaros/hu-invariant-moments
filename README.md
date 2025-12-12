@@ -1,2 +1,2 @@
-# hu-invariant-moments
-Hu's invariant moments and morphological operations
+# Hu's Invariant Moments
+Hu's seven invariant moments and morphological operations
